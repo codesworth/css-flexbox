@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #cccccc;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.item {
+  padding: 30px;
+  background-color: blueviolet;
+  margin: 30px;
+  color: aliceblue;
+  font-size: 40px;
+}
+
+.i2 {
+  height: 200px;
+}
